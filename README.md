@@ -1,2 +1,2 @@
 # Teste-Target
-Teste de código da empresa Target Sistemas
+Teste de código da Target Sistemas
